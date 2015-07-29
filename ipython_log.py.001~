@@ -1,0 +1,47 @@
+# IPython log file
+
+2 ** 27
+_
+_i1
+_1
+_3
+exec _i1
+eval _i1
+_i1
+eval (_i1)
+eval (_i1)
+exec (_i1)
+exec _i1
+a=0
+a= a+5
+exec _i14
+import keyword
+keyword.kwlist
+get_ipython().magic(u'hist ')
+get_ipython().magic(u'reset ')
+get_ipython().magic(u'hist ')
+get_ipython().magic(u'xdel')
+a
+a = 1
+get_ipython().magic(u'xdel')
+get_ipython().magic(u'xdel a')
+a
+a = 1
+del a
+a
+a = [1,2,3]
+b = a
+get_ipython().magic(u'xdel a')
+b
+a = [1,2,3]
+b = a
+del a
+b
+get_ipython().magic(u'hist ')
+a =1 
+b= 2
+get_ipython().magic(u'logstart')
+get_ipython().magic(u'ls ')
+get_ipython().magic(u'cat ipython_log.py')
+get_ipython().magic(u'logstate ')
+get_ipython().magic(u'logoff ')
